@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 10.99,
+      "image": "https://picsum.photos/id/1018/400/400"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 19.99,
+      "image": "https://picsum.photos/id/1015/400/400"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 25.99,
+      "image": "https://picsum.photos/id/1019/400/400"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 15.99,
+      "image": "https://picsum.photos/id/1025/400/400"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 12.99,
+      "image": "https://picsum.photos/id/1031/400/400"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 18.99,
+      "image": "https://picsum.photos/id/1043/400/400"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 8.99,
+      "image": "https://picsum.photos/id/1048/400/400"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 9.99,
+      "image": "https://picsum.photos/id/1051/400/400"
+    }
+  ]
+}
