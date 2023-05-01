@@ -63,10 +63,10 @@
         "stock": 123,
         "brand": "Google",
         "category": "smartphones",
-        "thumbnail": "https://cdn1.smartprix.com/rx-iLDQmLjxF-w1200-h1200/LDQmLjxF.jpg",
+        "thumbnail": "https://m.media-amazon.com/images/I/71jmjOxxE3L._AC_SL1500_.jpg",
         "images": [
             "https://cdn1.smartprix.com/rx-iLDQmLjxF-w1200-h1200/LDQmLjxF.jpg",
-            "https://imageio.forbes.com/specials-images/imageserve/63472d41fb891182a9de06a9/Google-s-Pixel-7-and-Pixel-7-Pro/960x0.jpg?height=399&width=711&fit=bounds",
+             "https://m.media-amazon.com/images/I/71tKYwVnIFL._AC_SL1500_.jpg",
             "https://cdn.vox-cdn.com/thumbor/VkSwEZiL0U8pPUX6Y9vDtgFPrf8=/0x0:2000x1500/1400x1400/filters:focal(1000x750:1001x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/24080351/Pixel_7_Pro_Hazel_Close_Up.jpg"
         ]
     },
@@ -97,7 +97,7 @@
         "stock": 83,
         "brand": "APPle",
         "category": "laptops",
-        "thumbnail": "https://dummyjson.com/image/i/products/6/thumbnail.png",
+        "thumbnail": "https://m.media-amazon.com/images/I/61aUBxqc5PL._AC_SL1500_.jpg",
         "images": [
             "https://dummyjson.com/image/i/products/6/1.png",
             "https://dummyjson.com/image/i/products/6/2.jpg",
