@@ -28,9 +28,9 @@
         "stock": 34,
         "brand": "Apple",
         "category": "smartphones",
-        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7a8VecgdO3q4qkVCZVeUA3_0a8vv9AfdpQ&usqp=CAU",
+        "thumbnail": "https://m.media-amazon.com/images/I/71qHDaBse6L._SL1500_.jpg",
         "images": [
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7a8VecgdO3q4qkVCZVeUA3_0a8vv9AfdpQ&usqp=CAU",
+            "https://m.media-amazon.com/images/I/71qHDaBse6L._SL1500_.jpg",
             "https://dummyjson.com/image/i/products/2/2.jpg",
             "https://dummyjson.com/image/i/products/2/3.jpg",
             "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
